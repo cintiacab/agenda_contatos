@@ -15,6 +15,12 @@
 ## 🚀 Tecnologia
 
 Esse projeto foi desenvolvido com a tecnologia Python.
+Principais funcionalidades utilizadas:
+
+- def function
+- for & while
+- dictionarie & list
+- if / elif / else   
 
 ## 💻 Projeto
 
